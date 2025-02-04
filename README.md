@@ -1,7 +1,7 @@
 # Retail_Price_Analysis
 
 ## Overview
-Retail Price Analyzer is a machine learning-based tool designed to analyze retail pricing data, perform feature engineering, train predictive models, and evaluate their performance. It provides insights into pricing trends and allows businesses to optimise their pricing strategies.
+Retail Price Analysis is a machine learning-based approach designed to analyse retail pricing data, perform feature engineering, train predictive models, and evaluate their performance. It provides insights into pricing trends and allows businesses to optimise their pricing strategies.
 
 ### Dataset
 The dataset used for this project contains historical retail price data, including attributes such as `qty`, `unit_price`, `comp_1`, and `total_price`. The dataset is preprocessed to handle missing values, detect outliers, and create derived features for better model performance.
